@@ -4,7 +4,7 @@
 - 👷‍♂️ I’m looking to collaborate on any open source project...
 - 📫 How to reach me :- himangshusar100@gmail.com...
 
-[![](https://visitcount.itsvg.in/api?id=Himangshu-101&icon=2&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Himangshu-101&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 Himangshu-101/Himangshu-101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
